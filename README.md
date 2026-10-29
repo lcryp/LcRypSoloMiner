@@ -170,4 +170,11 @@ rpcworkqueue=100
 
 **LcRyp Solo Miner v2.2**  
 https://lcryp.com
+---
+
+### 📢 Community & Support
+
+Join the official Telegram channel for updates, tips and help:  
+**[t.me/lcryp_com_official](https://t.me/lcryp_com_official)**
+
 ```
