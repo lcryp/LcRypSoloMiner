@@ -9,6 +9,7 @@ Supports:
 - Remote statistics reporting
 
 Official site: [https://lcryp.com](https://lcryp.com)
+> **📢 Official Telegram:** [**t.me/lcryp_com_official**](https://t.me/lcryp_com_official) — news, mining & community
 
 ---
 
